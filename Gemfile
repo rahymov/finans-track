@@ -13,6 +13,12 @@ gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.2'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
+gem 'simple_form', '~> 3.5'
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
+gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
+gem 'devise', '~> 4.4', '>= 4.4.1'
+gem 'twitter-bootstrap-rails', '~> 4.0'
+gem 'devise-bootstrap-views', '~> 0.0.11'
 
 
 
