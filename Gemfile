@@ -19,6 +19,8 @@ gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
 gem 'devise', '~> 4.4', '>= 4.4.1'
 gem 'twitter-bootstrap-rails', '~> 4.0'
 gem 'devise-bootstrap-views', '~> 0.0.11'
+gem 'stock_quote', '~> 1.5', '>= 1.5.4'
+gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.3'
 
 
 

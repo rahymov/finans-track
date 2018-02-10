@@ -11,10 +11,25 @@
  * It is generally better to create a new file per style scope.
  *
  *= require devise_bootstrap_views
+ *= require font-awesome
  *= require_tree .
  *= require_self
  */
 
 @import "bootstrap-sprockets";
 @import "bootstrap";
+@import "font-awesome";
 
+
+div#results-block.well.results-block
+{
+	display: inline-block;
+}
+.no-padding
+{
+	padding: 0 !important;
+}
+.fade.in
+{
+	display: inline-block;
+}
