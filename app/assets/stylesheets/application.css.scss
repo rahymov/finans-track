@@ -33,3 +33,28 @@ div#results-block.well.results-block
 {
 	display: inline-block;
 }
+.left-padding
+{
+	padding-left: 15px !important;
+}
+.logout
+{
+	padding-left: 0;
+}
+.user-name
+{
+	padding-top: 13px;
+}
+.nav.navbar-right li
+{
+	.btn 
+	{
+		color: #fff !important;
+		margin-top: 5px;
+	}
+	.btn-danger:hover
+	{
+		background-color: darken(#d9543f, 10%);
+	}
+}
+
